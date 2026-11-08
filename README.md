@@ -20,9 +20,9 @@ Network intrusion detection: given the 41 traffic features describing a single n
 
 ## c. GitHub repository link
 
-https://github.com/YOUR-USERNAME/nsl-kdd-intrusion-detection
+https://github.com/akaatish/2026AK05416-ML-ASSIGNMENT
 
-Live Streamlit app: https://YOUR-APP-NAME.streamlit.app
+Live Streamlit app: https://2026ak05416-ml-assignment.streamlit.app/
 
 ## d. Models used
 
@@ -63,7 +63,7 @@ All five models were trained on the same preprocessed NSL-KDD training data and 
 ## Repository structure
 
 ```
-nsl-kdd-intrusion-detection/
+2026AK05416-ML-ASSIGNMENT/
 |-- app.py                          Streamlit app
 |-- utils.py                        helper functions used by the app
 |-- requirements.txt
